@@ -1,2 +1,2 @@
 repoUrl: https://github.com/iswish-software/pages-playground
-mainBranchUrl: ${repoUrl}/blob/main
+mainBranch: blob/main

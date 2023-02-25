@@ -5,4 +5,4 @@ title: GitHub Pages Playground
 
 ## Features
 
-- [Calculator]({{ site.repoUrl }}/features/calculator.feature){:target="_blank" rel="noopener"}
+- [Calculator]({{ site.mainBranchUrl }}/features/calculator.feature){:target="_blank" rel="noopener"}

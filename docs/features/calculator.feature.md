@@ -34,12 +34,13 @@ lorem ipsum dolor
 `@important` `@essential`
 ### Scenario Outline: Multiply two numbers
 
-* Given the 'first' number is '<first value>'
-* And the 'second' number is '<second value>'
+* Given the 'first' number is '\<first value\>'
+* And the 'second' number is '\<second value\>'
 * When the two numbers are 'multiplied'
-* Then the result should be '<result>'
+* Then the result should be '\<result\>'
 
 #### Examples:
+
 
   | first value | second value | result |
   |-------------|--------------|--------|
@@ -52,11 +53,13 @@ lorem ipsum dolor
 ### Scenario: Add numbers
 
 * Given the following numbers
+
   | number |
   |--------|
   | 1      |
   | 2      |
 * And the following numbers
+
   | number |
   |--------|
   | 3      |

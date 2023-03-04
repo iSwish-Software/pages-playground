@@ -5,7 +5,7 @@ title: GitHub Pages Playground
 
 ## Features
 
-- [Calculator]({{ site.mainBranchUrl }}/features/calculator.feature){:target="_blank" rel="noopener"}
+- [Calculator](./features/calculator.feature) [feature]({{ site.mainBranchUrl }}/features/calculator.feature){:target="_blank" rel="noopener"}
 
 ## Mermaid
 
